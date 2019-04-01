@@ -6,7 +6,12 @@ Este SRS tiene como proposito definir y aclarar todos los requerimientos para la
 
 Los requerimientos que se veran aqui, seran proporcionados por el cliente y definidos para que tanto el cliente como el desarrollador de la pagina web puedan entenderlos y aplicarlos de la mejor forma posible.
 ### 1.2 Scope
+El sitio web a desarrollar "Valdez fotografias", sera un sitio en el que las personas puedan ingresar para poder realizar alguna de las siguientes acciones:
+* Verificara disponibilidad de fechas y revervaciones.
+* Consultar paquetes y precios.
+* Ver trabajos anteriores.
 
+La finalidad del sitio web es proporcionarle al cliente una forma de administrar su negocio de una manera mas optima, ya que actualmente todo se hace por medio de facebook, se promocionan por facebook, suben sus trabajos anteriores por medio de facebook, si un usuario quiere informacion de un paquete se hace por medio de mensajes de facebook, etc. por eso al tener el sitio web gran parte de la informacion que los usuarios necesitan va a estar disponible de una forma mas sencilla.
 ### 1.3 Definitions, acronyms, and abbreviations
 ### 1.4 References
 ### 1.5 Overview
