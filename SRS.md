@@ -19,6 +19,7 @@ The purpose of the website is to provide the client with a way to manage their b
 * **reservations:** Save or set aside something in the future, in this case set a date in the near future.
 * **Slider:** It is an element of a web page that shows multiple images and text that alternate between them.
 * **Domain:** A domain is the unique and exclusive name with which a web page will be identified on the Internet.
+* **Hyperlink:** It is a link that connects one document with another, that allows a new page on the Internet with just a click on it.
 
 ### 1.4 References
 
@@ -88,9 +89,53 @@ On the website, the user will be able to:
 * All emails entered on the website must be used only and exclusively for informational purposes.
 * The calendar that will be used is an extension of google.
 * The domain of the website must be .MX at the request of the business owner.
+
 ### 2.5 Assumptions and dependencies
+* The consent of the clients is required to place their photos on the website.
+* The connection with the Google calendar extension and a Google mail account is required for this to work.
 
 ## 3. Specific requirements
+The website must be composed as follows:
+* **Main page:** It will be the first screen that the user will see when he enters, this screen must contain the following:
+  * A banner with the logo of the business and the name of the page.
+    * This banner should be found at the top of the page.
+  * The tab bar for the different sections of the page should be under the banner and its operation should be like a menu.
+    * When the user clicks on one of the tabs it will be redirected to the corresponding tab, also when the user puts the cursor on the tab a popup menu will appear with hyperlinks in which the user can click to go directly.
+  * A slider with the most outstanding previous works.
+    * The slider must contain 8 photos, it must have a button on the left and another on the right so that when the click user can scroll either forward or backward.
+    
+* **Contact tab:** In this tab you will find the necessary information so that users can contact the business owner, it must include the following:
+  * A banner with the logo of the business and the name of the page.
+    * This banner should be found at the top of the page.
+  * The tab bar for the different sections of the page should be under the banner and its operation should be like a menu.
+    * When the user clicks on one of the tabs it will be redirected to the corresponding tab, also when the user puts the cursor on the tab to popup menu will appear with hyperlinks in which the user can click to go directly.
+  * A section with the business phone, email and facebook.
+    * This section should go under the tab bar on the right side.
+  * A section in which the user can send an email from the page by means of a form in which the client enters his name, his electronic mail and the description of what he needs.
+    * This section should go under the tab bar on the left side, it should contain 3 text fields, one for the user to enter their name, another field for the user to enter their email address and another to describe what you need, below the text fields should be 2 buttons, one on the left side to send the information and the other on the right side to clean the form.
+  * A section for the legal notice, specifying that the use of the electronic mail is only for communication purposes and the information will not be used or sold to third parties.
+    v    
+* **About us tab:** In this tab you will find the information of the business so that the user can know about it, it must include the following:
+  * A banner with the logo of the business and the name of the page.
+    * This banner should be found at the top of the page.
+  * The tab bar for the different sections of the page should be under the banner and its operation should be like a menu.
+    * When the user clicks on one of the tabs it will be redirected to the corresponding tab, also when the user puts the cursor on the tab to popup menu will appear with hyperlinks in which the user can click to go directly.
+  * The information and history of the business.
+    * This information should be located just below the tab bar, the text should be justified.
+  * A presentation and a photograph of the people involved in the business.
+    * The photograph of the person involved must go from the left side and the text must be justified and surrounding the photograph.  
+
+* **Calendar tab:** This tab shows a calendar in which you can display information about business events, this tab should include the following:
+  * A banner with the logo of the business and the name of the page.
+    * This banner should be found at the top of the page.
+  * The tab bar for the different sections of the page should be under the banner and its operation should be like a menu.
+    * When the user clicks on one of the tabs it will be redirected to the corresponding tab, also when the user puts the cursor on the tab to popup menu will appear with hyperlinks in which the user can click to go directly.
+  * A calendar in real time.
+    * The calendar should be under the tab bar, it should be centered.
+  * A form in which the client enters his name, email and the description of the service he would like to hire when selecting a calendar date.
+    * This form should be under the calendar on the left side, it should contain 3 text fields, one for the user to enter their name, another field for the user to enter their email address and another to describe what you need, below the text fields should be 2 buttons, one on the left side to send the information and the other on the right side to clean the form.
+   * A section for the legal notice, specifying that the use of the electronic mail is only for communication purposes and the information will not be used or sold to third parties.
+     * This section should be located at the bottom of the web page, below the buttons of the form so that the user can see it.
 
 ## Appendixes
 
