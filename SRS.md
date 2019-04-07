@@ -30,7 +30,7 @@ The system to develop consists of a web page that will be of help to the busines
 ### 2.2 Product functions
 The web page will consist of a main page, a section of contact information, an "About us" section, a calendar section with the available dates, a section with the previous works and a section with the packages and their respective prices .
 
-* ** Main page: ** It will be the first screen that the user will see when he enters, this screen will contain the following:
+* **Main page:** It will be the first screen that the user will see when he enters, this screen will contain the following:
   * A banner with the logo of the business and the name of the page.
   * A tab to go to the contact information section.
   * A tab to go to the "About us" section.
@@ -38,6 +38,20 @@ The web page will consist of a main page, a section of contact information, an "
   * A tab to go to the section of previous works.
   * A tab to go to the package section.
   * A slider with the most outstanding previous works.
+  
+* **Contact tab:** In this tab you will find the necessary information so that users can contact the business owner, it must include the following:
+  * A section with the business phone.
+  * A section with the business email.
+  * A section in which the user can send an email from the page by means of a form in which the client enters his name, his electronic mail and the description of what he needs.
+  * A section for the legal notice, specifying that the use of the electronic mail is only for communication purposes and the information will not be used or sold to third parties.
+  
+* **About us tab:** In this tab you will find the information of the business so that the user can know about it, it must include the following:
+  * Information about what the business does and why it does it.
+  * The history of the business.
+  * A presentation of the people involved in the business.
+  * A photograph of the people involved in the business.
+  
+  
   
 
 ### 2.3 User Characteristics
