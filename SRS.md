@@ -18,6 +18,8 @@ The purpose of the website is to provide the client with a way to manage their b
 * **etc:** Abbreviation of etcetera, an expression used to replace the rest of an enumeration that is understood thanks to the context.
 * **reservations:** Save or set aside something in the future, in this case set a date in the near future.
 * **Slider:** It is an element of a web page that shows multiple images and text that alternate between them.
+* **Domain:** A domain is the unique and exclusive name with which a web page will be identified on the Internet.
+
 ### 1.4 References
 
 ### 1.5 Overview
@@ -81,6 +83,11 @@ On the website, the user will be able to:
 | Client   | The client or user is the one in charge of using the website, enter the different sections and fill out the contact forms as required.  | 
 
 ### 2.4 Constraints
+
+* To be able to add a photo to the website you must have the permission of those involved in it.
+* All emails entered on the website must be used only and exclusively for informational purposes.
+* The calendar that will be used is an extension of google.
+* The domain of the website must be .MX at the request of the business owner.
 ### 2.5 Assumptions and dependencies
 
 ## 3. Specific requirements
