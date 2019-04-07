@@ -20,6 +20,7 @@ The purpose of the website is to provide the client with a way to manage their b
 * **Slider:** It is an element of a web page that shows multiple images and text that alternate between them.
 * **Domain:** A domain is the unique and exclusive name with which a web page will be identified on the Internet.
 * **Hyperlink:** It is a link that connects one document with another, that allows a new page on the Internet with just a click on it.
+* **TBD:** To Be Determined.
 
 ### 1.4 References
 
@@ -137,6 +138,24 @@ The website must be composed as follows:
    * A section for the legal notice, specifying that the use of the electronic mail is only for communication purposes and the information will not be used or sold to third parties.
      * This section should be located at the bottom of the web page, below the buttons of the form so that the user can see it.
 
-## Appendixes
+* **Previous works tab:** In this tab some of the previous works of the business will be shown as a sample for the users, this tab should include:
+  * A banner with the logo of the business and the name of the page.
+    * This banner should be found at the top of the page.
+  * The tab bar for the different sections of the page should be under the banner and its operation should be like a menu.
+    * When the user clicks on one of the tabs it will be redirected to the corresponding tab, also when the user puts the cursor on the tab to popup menu will appear with hyperlinks in which the user can click to go directly.
+  * Photo galleries divided according to the type of event.
+    * The photo galleries must be under the eyelash bar, they must be separated according to the event, starting with XV party, children's party, baptism, smash cake, baby welcome, seasonal. The first 3 events will be aligned below the tab bar and the other 3 events will be below them.
+    * Clicking on a gallery will show all the photos of that gallery ordered, by clicking on a photograph of the gallery you will enter a full screen mode and you can navigate with the directional arrows or by clicking on the side buttons.
+  * Legal notice to let you know that the images are shown for sample only and are subject to copyright.
+    * This message should be just below the galleries of the events and within each gallery.
 
-## Index
+* **Package tab:** This tab describes the photo packages that the business handles, it should include:
+  * A banner with the logo of the business and the name of the page.
+    * This banner should be found at the top of the page.
+  * The tab bar for the different sections of the page should be under the banner and its operation should be like a menu.
+    * When the user clicks on one of the tabs it will be redirected to the corresponding tab, also when the user puts the cursor on the tab to popup menu will appear with hyperlinks in which the user can click to go directly.
+  * The name of the package, what that package contains, its price and description.
+    * The information must be on the left side below the tab bar.
+    * TBD the order and information of the packages, the business owner does not provide that information yet, it is looking to schedule a meeting to get the details.
+  * A legal notice to warn that the packages are subject to price changes and availability.
+    * This information must be located right at the end of the information of the packages so that the user can see it easily.
