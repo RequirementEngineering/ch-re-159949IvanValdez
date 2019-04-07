@@ -20,14 +20,15 @@ The purpose of the website is to provide the client with a way to manage their b
 * **Slider:** 
 
 ### 1.4 References
+
 ### 1.5 Overview
 The rest of the document contains the functions of the web page in more detail, section 2 looks in depth at the product perspective, the function of the product and the characteristics of the user, the constraints, as well as the assumptions and dependencies, in Section 3 is where the specific requirements of the website are discussed.
 
 ## 2. Overall description
+
 ### 2.1 Product perspective
 The system to develop consists of a web page that will be of help to the business owner, helping him to provide the basic information of the business to the users, also the users will be benefited thanks to the web page because the information will be at its reach each time you want, plus you can see availability of dates and make your reservations from the internet.
 
-### 2.2 Product functions
 The web page will consist of a main page, a section of contact information, an "About us" section, a calendar section with the available dates, a section with the previous works and a section with the packages and their respective prices .
 
 * **Main page:** It will be the first screen that the user will see when he enters, this screen must contain the following:
@@ -63,6 +64,9 @@ The web page will consist of a main page, a section of contact information, an "
 * **Package tab:** This tab describes the photo packages that the business handles, it should include:
   * The name of the package, what that package contains, its price and description.
   * A legal notice to warn that the packages are subject to price changes and availability.
+  
+### 2.2 Product functions
+En esta seccion 
   
 ### 2.3 User Characteristics
 ### 2.4 Constraints
