@@ -24,9 +24,11 @@ The rest of the document contains the functions of the web page in more detail, 
 
 ## 2. Overall description
 ### 2.1 Product perspective
-
+The system to develop consists of a web page that will be of help to the business owner, helping him to provide the basic information of the business to the users, also the users will be benefited thanks to the web page because the information will be at its reach each time you want, plus you can see availability of dates and make your reservations from the internet.
 
 ### 2.2 Product functions
+La pagina web va a constar de una pagina principal, una seccion de informacion de contacto, una seccion "About us", una seccion de calendario con las fechas disponibles y  una seccion con los trabajos previos.
+
 ### 2.3 User Characteristics
 ### 2.4 Constraints
 ### 2.5 Assumptions and dependencies
