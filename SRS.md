@@ -5,13 +5,16 @@
 Este SRS tiene como proposito definir y aclarar todos los requerimientos para la realización de una pagina web sobre un negocio de sesiones fotograficas, en la cual se puedan realizar reservaciones de fechas para los eventos, consultar paquetes, precios, asi como tambien revisar fotografias de sesiones anteriores. 
 
 Los requerimientos que se veran aqui, seran proporcionados por el cliente y definidos para que tanto el cliente como el desarrollador de la pagina web puedan entenderlos y aplicarlos de la mejor forma posible.
+
 ### 1.2 Scope
 El sitio web a desarrollar "Valdez fotografias", sera un sitio en el que las personas puedan ingresar para poder realizar alguna de las siguientes acciones:
 * Verificara disponibilidad de fechas y reservaciones.
 * Consultar paquetes y precios.
 * Ver trabajos anteriores.
 
-La finalidad del sitio web es proporcionarle al cliente una forma de administrar su negocio de una manera mas optima, ya que actualmente todo se hace por medio de facebook, se promocionan por facebook, suben sus trabajos anteriores por medio de facebook, si un usuario quiere informacion de un paquete se hace por medio de mensajes de facebook, etc. por eso al tener el sitio web gran parte de la informacion que los usuarios necesitan va a estar disponible de una forma mas sencilla.
+La finalidad del sitio web es proporcionarle al cliente una forma de administrar su negocio de una manera mas optima, ya que actualmente todo se hace por medio de facebook, se promocionan por facebook, suben sus trabajos anteriores por medio de facebook, si un usuario quiere informacion de un paquete se hace por medio de mensajes de facebook, etc. por eso al tener el sitio web gran parte de la informacion que los usuarios necesitan va a estar disponible de una forma mas sencilla, evitando tener que mandar un mensaje a la pagina de facebook y esperar por una respuesta, esto ayuda a que los clientes puedan obtener la informacion de una manera mas facil y rapida, mientras que reduce la carga para el dueño de tener que contestar mensajes de manera individual para cada cliente. 
+
+
 ### 1.3 Definitions, acronyms, and abbreviations
 * **etc:** Abreviatura de etcétera, una expresión usada para sustituir el resto de una enumeracion que se entiende gracias al contexto.
 * **reservaciones:** Guardar o apartar algo a futuro, en este caso apartar una fecha en un futuro proximo.
