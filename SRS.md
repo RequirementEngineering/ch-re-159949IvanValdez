@@ -17,6 +17,7 @@ The purpose of the website is to provide the client with a way to manage their b
 ### 1.3 Definitions, acronyms, and abbreviations
 * **etc:** Abbreviation of etcetera, an expression used to replace the rest of an enumeration that is understood thanks to the context.
 * **reservations:** Save or set aside something in the future, in this case set a date in the near future.
+* **Slider:** 
 
 ### 1.4 References
 ### 1.5 Overview
@@ -27,7 +28,17 @@ The rest of the document contains the functions of the web page in more detail, 
 The system to develop consists of a web page that will be of help to the business owner, helping him to provide the basic information of the business to the users, also the users will be benefited thanks to the web page because the information will be at its reach each time you want, plus you can see availability of dates and make your reservations from the internet.
 
 ### 2.2 Product functions
-La pagina web va a constar de una pagina principal, una seccion de informacion de contacto, una seccion "About us", una seccion de calendario con las fechas disponibles y  una seccion con los trabajos previos.
+The web page will consist of a main page, a section of contact information, an "About us" section, a calendar section with the available dates, a section with the previous works and a section with the packages and their respective prices .
+
+* ** Main page: ** It will be the first screen that the user will see when he enters, this screen will contain the following:
+  * A banner with the logo of the business and the name of the page.
+  * A tab to go to the contact information section.
+  * A tab to go to the "About us" section.
+  * A tab to go to the calendar section.
+  * A tab to go to the section of previous works.
+  * A tab to go to the package section.
+  * A slider with the most outstanding previous works.
+  
 
 ### 2.3 User Characteristics
 ### 2.4 Constraints
