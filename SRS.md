@@ -17,8 +17,7 @@ The purpose of the website is to provide the client with a way to manage their b
 ### 1.3 Definitions, acronyms, and abbreviations
 * **etc:** Abbreviation of etcetera, an expression used to replace the rest of an enumeration that is understood thanks to the context.
 * **reservations:** Save or set aside something in the future, in this case set a date in the near future.
-* **Slider:** 
-
+* **Slider:** It is an element of a web page that shows multiple images and text that alternate between them.
 ### 1.4 References
 
 ### 1.5 Overview
@@ -76,6 +75,11 @@ On the website, the user will be able to:
 * Reserve dates for events.
   
 ### 2.3 User Characteristics
+| User    | Details           |
+| ------------- |:-------------:|
+| Administrator | The administrator will be responsible for adding, modifying or deleting content from the website, he will be responsible for keeping the information on the website updated and available to users. |
+| Client   | The client or user is the one in charge of using the website, enter the different sections and fill out the contact forms as required.  | 
+
 ### 2.4 Constraints
 ### 2.5 Assumptions and dependencies
 
