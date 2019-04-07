@@ -51,7 +51,10 @@ The web page will consist of a main page, a section of contact information, an "
   * A presentation of the people involved in the business.
   * A photograph of the people involved in the business.
   
-  
+* **Calendar tab:** This tab shows a calendar in which you can display information about business events, this tab should include the following:
+  * A calendar in real time.
+  * A form in which the client enters his name, email and the description of the service he would like to hire when selecting a calendar date.
+  * A section for the legal notice, specifying that the use of the electronic mail is only for communication purposes and the information will not be used or sold to third parties.
   
 
 ### 2.3 User Characteristics
