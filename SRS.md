@@ -66,7 +66,14 @@ The web page will consist of a main page, a section of contact information, an "
   * A legal notice to warn that the packages are subject to price changes and availability.
   
 ### 2.2 Product functions
-En esta seccion 
+On the website the owner will be able to:
+* Add, modify or delete information found on the website.
+* Add or delete photographs that are on the website.
+* Receive emails through the website.
+
+On the website, the user will be able to:
+* Send emails through the website.
+* Reserve dates for events.
   
 ### 2.3 User Characteristics
 ### 2.4 Constraints
