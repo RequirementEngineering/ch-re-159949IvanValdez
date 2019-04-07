@@ -30,7 +30,7 @@ The system to develop consists of a web page that will be of help to the busines
 ### 2.2 Product functions
 The web page will consist of a main page, a section of contact information, an "About us" section, a calendar section with the available dates, a section with the previous works and a section with the packages and their respective prices .
 
-* **Main page:** It will be the first screen that the user will see when he enters, this screen will contain the following:
+* **Main page:** It will be the first screen that the user will see when he enters, this screen must contain the following:
   * A banner with the logo of the business and the name of the page.
   * A tab to go to the contact information section.
   * A tab to go to the "About us" section.
@@ -56,7 +56,14 @@ The web page will consist of a main page, a section of contact information, an "
   * A form in which the client enters his name, email and the description of the service he would like to hire when selecting a calendar date.
   * A section for the legal notice, specifying that the use of the electronic mail is only for communication purposes and the information will not be used or sold to third parties.
   
-
+* **Previous works tab:** In this tab some of the previous works of the business will be shown as a sample for the users, this tab should include:
+  * Photo galleries divided according to the type of event.
+  * Legal notice to let you know that the images shown are for sample only and are subject to copyright.
+  
+* **Package tab:** This tab describes the photo packages that the business handles, it should include:
+  * The name of the package, what that package contains, its price and description.
+  * A legal notice to warn that the packages are subject to price changes and availability.
+  
 ### 2.3 User Characteristics
 ### 2.4 Constraints
 ### 2.5 Assumptions and dependencies
