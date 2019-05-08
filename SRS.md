@@ -144,7 +144,7 @@ The website must be composed as follows:
   * The tab bar for the different sections of the page should be under the banner and its operation should be like a menu.
     * When the user clicks on one of the tabs it will be redirected to the corresponding tab, also when the user puts the cursor on the tab to popup menu will appear with hyperlinks in which the user can click to go directly.
   * Photo galleries divided according to the type of event.
-    * The photo galleries must be under the eyelash bar, they must be separated according to the event, starting with XV party, children's party, baptism, smash cake, baby welcome, seasonal. The first 3 events will be aligned below the tab bar and the other 3 events will be below them.
+    * The photo galleries must be under the tab bar, they must be separated according to the event, starting with XV party, children's party, baptism, smash cake, baby welcome, seasonal. The first 3 events will be aligned below the tab bar and the other 3 events will be below them.
     * Clicking on a gallery will show all the photos of that gallery ordered, by clicking on a photograph of the gallery you will enter a full screen mode and you can navigate with the directional arrows or by clicking on the side buttons.
   * Legal notice to let you know that the images are shown for sample only and are subject to copyright.
     * This message should be just below the galleries of the events and within each gallery.
