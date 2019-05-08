@@ -115,7 +115,7 @@ The website must be composed as follows:
   * A section in which the user can send an email from the page by means of a form in which the client enters his name, his electronic mail and the description of what he needs.
     * This section should go under the tab bar on the left side, it should contain 3 text fields, one for the user to enter their name, another field for the user to enter their email address and another to describe what you need, below the text fields should be 2 buttons, one on the left side to send the information and the other on the right side to clean the form.
   * A section for the legal notice, specifying that the use of the electronic mail is only for communication purposes and the information will not be used or sold to third parties.
-    v    
+     
 * **About us tab:** In this tab you will find the information of the business so that the user can know about it, it must include the following:
   * A banner with the logo of the business and the name of the page.
     * This banner should be found at the top of the page.
