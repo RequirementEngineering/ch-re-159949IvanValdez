@@ -82,7 +82,7 @@ On the website, the user will be able to:
 | User    | Details           |
 | ------------- |:-------------:|
 | Administrator | The administrator will be responsible for adding, modifying or deleting content from the website, he will be responsible for keeping the information on the website updated and available to users. |
-| Client   | The client or user is the one in charge of using the website, enter the different sections and fill out the contact forms as required.  | 
+| User   | The user is the one in charge of using the website, enter the different sections and fill out the contact forms as required.  | 
 
 ### 2.4 Constraints
 
