@@ -193,4 +193,27 @@ Finally, if the client wants to see the information related to the packages alre
 
 Once the client finished specifying the process, the functions and the order he wanted the web page to have, he checked the requirements to ensure that they were interpreted in the way he had wanted it, the client accepted the way that the requirements were interpreted and these requirements were added to the SRS document.
 
+### BPMN
+* General Process
 
+![Proceso General](/BPMN/General.jpg)
+
+  * Sub Process Contact tab
+  
+  ![Contact Tab](/BPMN/ContactTab.jpg)
+  
+  * Sub Process About Us tab
+  
+  ![About Us Tab](/BPMN/AboutUsTab.jpg)
+  
+  * Sub Process Calendar tab
+  
+  ![Calendar Tab](/BPMN/CalendarTab.jpg)
+  
+  * Sub Process Previous Works tab
+  
+  ![Previous Works Tab](/BPMN/PreviousWorksTab.jpg)
+  
+  * Sub Process Package tab
+  
+  ![Package Tab](/BPMN/PackageTab.jpg)
