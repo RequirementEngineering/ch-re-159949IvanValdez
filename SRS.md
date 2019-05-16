@@ -113,8 +113,11 @@ On the website, the user will be able to:
 ### User Characteristics
 | User    | Details           |
 | ------------- |:-------------:|
-| Administrator | The administrator will be responsible for adding, modifying or deleting content from the website, he will be responsible for keeping the information on the website updated and available to users. |
-| User   | The user is the one in charge of using the website, enter the different sections and fill out the contact forms as required.  | 
+| Administrator | The administrator will be responsible for adding, modifying or deleting content from the website.|
+| User   | The user is the one in charge of using the website, enter the different sections and fill out the contact forms as required.|
+| Manager | The manager will be responsible for keeping the information on the website updated and available to users.|
+| Assistant| The assistant will manage the business email and respond to users.|
+
 
 ### Constraints
 
