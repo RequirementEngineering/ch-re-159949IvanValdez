@@ -135,6 +135,8 @@ On the website, the user will be able to:
 
 ## Specific requirements
 ### User Requirements
+### System Requirements
+### Functional Requirements
 The website must be composed as follows:
 * **Main page:** It will be the first screen that the user will see when he enters, this screen must contain the following:
   * A banner with the logo of the business and the name of the page.
@@ -198,9 +200,10 @@ The website must be composed as follows:
     * TBD the order and information of the packages, the business owner does not provide that information yet, it is looking to schedule a meeting to get the details.
   * A legal notice to warn that the packages are subject to price changes and availability.
     * This information must be located right at the end of the information of the packages so that the user can see it easily.
-### System Requirements
-### Functional Requirements
-### Non functional requirements
+
+### Non Functional Requirements
+* The web page must be conected to a server. 
+* The images of the web page must be stored in a dababase.
 
 ## Supporting Information 
 ### Appendixes
