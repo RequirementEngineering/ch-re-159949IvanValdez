@@ -10,25 +10,25 @@
 ## Table of Contents and Index
 * [1. Introduction](#Introduction)
   * [1.1 Purpose](#Purpose)
-  * [1.2 Scope](#1.2-Scope)
-  * [1.3 Definitions, acronymus, and abbreviations](#1.3-Definitions,-acronymus,-and-abbreviations)
-  * [1.4 References](#1.4-References)
-  * [1.5 Overview](#1.5-Overview)
-* [2. Overall Description](#2.-Overall-Description)
-  * [2.1 Product Perspective](#2.1-Product-Perspective)
-  * [2.2 Product Functions](#2.2-Product-Functions)
-  * [2.3 User Characteristics](#2.3-User-Characteristics)
-  * [2.4 Contraints](#2.4-Constraints)
-  * [2.5 Assumptions and dependencies](#2.5-Assumptions-and-dependencies)
-* [3. Specific requirements](#3.-Specific-requirements)
-  * [3.1 User requirements](#3.1-User-requirements)
-  * [3.2 System requirements](#3.2-System-requirements)
-  * [3.3 Functional Requirements](#3.3-Functional-Requirements)
-  * [3.4 Non functional requirements](#3.4-Non-functional-requirements)
-* [4. Supporting Information](#4.-Supporting-Information)
-  * [4.1 Appendixes](#4.1-Appendixes)
-    * [4.1.1 Elicitation process](#4.1.1-Elicitation-process)
-    * [4.1.2 BPMN](#4.1.2-BPMN)
+  * [1.2 Scope](#Scope)
+  * [1.3 Definitions, acronymus, and abbreviations](#Definitions,-acronymus,-and-abbreviations)
+  * [1.4 References](#References)
+  * [1.5 Overview](#Overview)
+* [2. Overall Description](#Overall-Description)
+  * [2.1 Product Perspective](#Product-Perspective)
+  * [2.2 Product Functions](#Product-Functions)
+  * [2.3 User Characteristics](#User-Characteristics)
+  * [2.4 Contraints](#Constraints)
+  * [2.5 Assumptions and dependencies](#Assumptions-and-dependencies)
+* [3. Specific requirements](#Specific-requirements)
+  * [3.1 User requirements](#User-requirements)
+  * [3.2 System requirements](#System-requirements)
+  * [3.3 Functional Requirements](#Functional-Requirements)
+  * [3.4 Non functional requirements](#Non-functional-requirements)
+* [4. Supporting Information](#Supporting-Information)
+  * [4.1 Appendixes](#Appendixes)
+    * [4.1.1 Elicitation process](#Elicitation-process)
+    * [4.1.2 BPMN](#BPMN)
 
 # SRS
 ## Introduction
@@ -38,7 +38,7 @@ This SRS aims to define and clarify all the requirements for the realization of 
 
 The requirements that will be seen here, will be provided by the client and defined so that both the client and the developer of the website can understand and apply them in the best possible way.
 
-### 1.2 Scope
+### Scope
 The website to develop "Valdez fotografias" will be a place where people can enter to perform any of the following actions:
 * Verify availability of dates and reservations.
 * Check packages and prices.
@@ -46,7 +46,7 @@ The website to develop "Valdez fotografias" will be a place where people can ent
 
 The purpose of the website is to provide the client with a way to manage their business in a more optimal way, since now everything is done through Facebook, promoted by Facebook, upload their previous work through Facebook, if a user wants Information about a packet is made through Facebook messages, etc. that is why having the website a large part of the information that users need will be available in a more simple way, avoiding having to send a message to the facebook page and wait for an answer, this helps customers to get the information in an easier and faster way, while reducing the burden for the owner to have to answer messages individually for each client.
 
-### 1.3 Definitions, acronyms, and abbreviations
+### Definitions, acronyms, and abbreviations
 * **etc:** Abbreviation of etcetera, an expression used to replace the rest of an enumeration that is understood thanks to the context.
 * **reservations:** Save or set aside something in the future, in this case set a date in the near future.
 * **Slider:** It is an element of a web page that shows multiple images and text that alternate between them.
@@ -54,14 +54,14 @@ The purpose of the website is to provide the client with a way to manage their b
 * **Hyperlink:** It is a link that connects one document with another, that allows a new page on the Internet with just a click on it.
 * **TBD:** To Be Determined.
 
-### 1.4 References
+### References
 
-### 1.5 Overview
+### Overview
 The rest of the document contains the functions of the web page in more detail, section 2 looks in depth at the product perspective, the function of the product and the characteristics of the user, the constraints, as well as the assumptions and dependencies, in Section 3 is where the specific requirements of the website are discussed.
 
-## 2. Overall description
+## Overall description
 
-### 2.1 Product perspective
+### Product perspective
 The system to develop consists of a web page that will be of help to the business owner, helping him to provide the basic information of the business to the users, also the users will be benefited thanks to the web page because the information will be at its reach each time you want, plus you can see availability of dates and make your reservations from the internet.
 
 The web page will consist of a main page, a section of contact information, an "About us" section, a calendar section with the available dates, a section with the previous works and a section with the packages and their respective prices .
@@ -100,7 +100,7 @@ The web page will consist of a main page, a section of contact information, an "
   * The name of the package, what that package contains, its price and description.
   * A legal notice to warn that the packages are subject to price changes and availability.
   
-### 2.2 Product functions
+### Product functions
 On the website the owner will be able to:
 * Add, modify or delete information found on the website.
 * Add or delete photographs that are on the website.
@@ -110,25 +110,25 @@ On the website, the user will be able to:
 * Send emails through the website.
 * Reserve dates for events.
   
-### 2.3 User Characteristics
+### User Characteristics
 | User    | Details           |
 | ------------- |:-------------:|
 | Administrator | The administrator will be responsible for adding, modifying or deleting content from the website, he will be responsible for keeping the information on the website updated and available to users. |
 | User   | The user is the one in charge of using the website, enter the different sections and fill out the contact forms as required.  | 
 
-### 2.4 Constraints
+### Constraints
 
 * To be able to add a photo to the website you must have the permission of those involved in it.
 * All emails entered on the website must be used only and exclusively for informational purposes.
 * The calendar that will be used is an extension of google.
 * The domain of the website must be .MX at the request of the business owner.
 
-### 2.5 Assumptions and dependencies
+### Assumptions and dependencies
 * The consent of the clients is required to place their photos on the website.
 * The connection with the Google calendar extension and a Google mail account is required for this to work.
 
-## 3. Specific requirements
-### 3.1 User Requirements
+## Specific requirements
+### User Requirements
 The website must be composed as follows:
 * **Main page:** It will be the first screen that the user will see when he enters, this screen must contain the following:
   * A banner with the logo of the business and the name of the page.
@@ -192,13 +192,13 @@ The website must be composed as follows:
     * TBD the order and information of the packages, the business owner does not provide that information yet, it is looking to schedule a meeting to get the details.
   * A legal notice to warn that the packages are subject to price changes and availability.
     * This information must be located right at the end of the information of the packages so that the user can see it easily.
-### 3.2 System Requirements
-### 3.3 Functional Requirements
-### 3.4 Non functional requirements
+### System Requirements
+### Functional Requirements
+### Non functional requirements
 
-## 4. Supporting Information 
-### 4.1 Appendixes
-#### 4.1.1 Elicitation process
+## Supporting Information 
+### Appendixes
+#### Elicitation process
 All the information in this document was obtained through an informal interview with the client on April 7, 2019, he was asked questions about the functions that the website would like to have, and suggestions about some of those functions.
 
 The client already had a design in mind for the page, the main page should contain the logo and the name of the business at the top so that when it was entered the page would be the first thing that was visible, under the logo and the name wanted a bar with different tabs that would function as hyperlinks to the other sites on the website, he mentioned that he wanted the user to click on the tab and be redirected to the corresponding tab, the suggestion was made to add in addition to that the option that when the user puts his cursor on a tab a menu will be displayed with the hyperlinks related to that tab giving the option to the user to go directly to the section he wanted, the client accessed this function and it was agreed to make the tab bar in this way, both the logo and name at the top of the page and the tab bar below, is something that will be present you in all the sites of the web page according to the client. He also mentioned that under the bar he wanted a slider of images that contained the 8 most representative photographs of his work selected by him, the slider must contain a button on the left and one on the right side so that users can move between the images.
@@ -230,7 +230,7 @@ Finally, if the client wants to see the information related to the packages alre
 
 Once the client finished specifying the process, the functions and the order he wanted the web page to have, he checked the requirements to ensure that they were interpreted in the way he had wanted it, the client accepted the way that the requirements were interpreted and these requirements were added to the SRS document.
 
-### 4.1.2 BPMN
+### BPMN
 * General Process
 
 ![Proceso General](/BPMN/General.jpg)
