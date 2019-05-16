@@ -7,8 +7,9 @@
   <h3 align="center">Development of Software Requirements</h3>
   <h3 align="center">May 2019</h3>
 
+## Table of Contents and Index
 * [1. Introduction](#Introduction)
-  * [1.1 Purpose](#1.1-Purpose)
+  * [1.1 Purpose](#Purpose)
   * [1.2 Scope](#1.2-Scope)
   * [1.3 Definitions, acronymus, and abbreviations](#1.3-Definitions,-acronymus,-and-abbreviations)
   * [1.4 References](#1.4-References)
@@ -30,9 +31,9 @@
     * [4.1.2 BPMN](#4.1.2-BPMN)
 
 # SRS
-## 1. Introduction
+## Introduction
 
-### 1.1 Purpose
+### Purpose
 This SRS aims to define and clarify all the requirements for the realization of a web page on a photographic session business, in which you can make reservations for dates for events, consult packages, prices, as well as review photographs of previous sessions.
 
 The requirements that will be seen here, will be provided by the client and defined so that both the client and the developer of the website can understand and apply them in the best possible way.
