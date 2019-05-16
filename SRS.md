@@ -7,7 +7,7 @@
   <h3 align="center">Development of Software Requirements</h3>
   <h3 align="center">May 2019</h3>
 
-* [1. Introduction](#1.-Introduction)
+* [1. Introduction](#Introduction)
   * [1.1 Purpose](#1.1-Purpose)
   * [1.2 Scope](#1.2-Scope)
   * [1.3 Definitions, acronymus, and abbreviations](#1.3-Definitions,-acronymus,-and-abbreviations)
