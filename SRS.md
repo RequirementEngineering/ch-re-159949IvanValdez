@@ -216,7 +216,7 @@ In the previous works tab, the structure of the logo and name in the upper part 
 
 In the packages tab, the same structure is still used, the logo and business name in the upper part and below the tab bar. In this section the name of the package will be added below the tab bar, which contains the package, its price and its description. The information should go from the left side just below the tab bar. Under all packages you should find a legal notice informing that the price of the packages may be subject to price and availability changes.
 
-##### Process
+#### Process
 With this the part of the functions of the website was terminated, now the client told us how the process should be on the page, the process begins when the user enters the website.
 
 When the user enters the web page must be redirected to the main page, on this page the user can check the page and decide if it is of interest, here the user can click on the tabs to see the other sections of the web page depending on what is of your interest.
