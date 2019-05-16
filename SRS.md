@@ -1,3 +1,34 @@
+  <h3 align="center"> Universidad Autónoma de Ciudad Juárez</h3>
+  <h3 align="center"> División Multidisciplinaria de Ciudad Universitaria </h3>
+  <h3 align="center"> Departamento de Ingeniería de Electricidad y Computación </h3>
+  <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-159949IvanValdez/blob/master/Mind%20Map/Logo.png" height="260" width="260"></img></p>
+  <h3 align="center">Web Page "Valdez Fotografias"</h3>
+  <h3 align="center">Luis Ivan Valdez Anchondo  159949</h3>
+  <h3 align="center">Development of Software Requirements</h3>
+  <h3 align="center">May 2019</h3>
+
+* [1. Introduction](#1.-Introduction)
+  * [1.1 Purpose](#1.1-Purpose)
+  * [1.2 Scope](#1.2-Scope)
+  * [1.3 Definitions, acronymus, and abbreviations](#1.3-Definitions,-acronymus,-and-abbreviations)
+  * [1.4 References](#1.4-References)
+  * [1.5 Overview](#1.5-Overview)
+* [2. Overall Description](#2.-Overall-Description)
+  * [2.1 Product Perspective](#2.1-Product-Perspective)
+  * [2.2 Product Functions](#2.2-Product-Functions)
+  * [2.3 User Characteristics](#2.3-User-Characteristics)
+  * [2.4 Contraints](#2.4-Constraints)
+  * [2.5 Assumptions and dependencies](#2.5-Assumptions-and-dependencies)
+* [3. Specific requirements](#3.-Specific-requirements)
+  * [3.1 User requirements](#3.1-User-requirements)
+  * [3.2 System requirements](#3.2-System-requirements)
+  * [3.3 Functional Requirements](#3.3-Functional-Requirements)
+  * [3.4 Non functional requirements](#3.4-Non-functional-requirements)
+* [4. Supporting Information](#4.-Supporting-Information)
+  * [4.1 Appendixes](#4.1-Appendixes)
+    * [4.1.1 Elicitation process](#4.1.1-Elicitation-process)
+    * [4.1.2 BPMN](#4.1.2-BPMN)
+
 # SRS
 ## 1. Introduction
 
@@ -96,6 +127,7 @@ On the website, the user will be able to:
 * The connection with the Google calendar extension and a Google mail account is required for this to work.
 
 ## 3. Specific requirements
+### 3.1 User Requirements
 The website must be composed as follows:
 * **Main page:** It will be the first screen that the user will see when he enters, this screen must contain the following:
   * A banner with the logo of the business and the name of the page.
@@ -159,9 +191,13 @@ The website must be composed as follows:
     * TBD the order and information of the packages, the business owner does not provide that information yet, it is looking to schedule a meeting to get the details.
   * A legal notice to warn that the packages are subject to price changes and availability.
     * This information must be located right at the end of the information of the packages so that the user can see it easily.
-    
-## Appendixes
-### Elicitation process
+### 3.2 System Requirements
+### 3.3 Functional Requirements
+### 3.4 Non functional requirements
+
+## 4. Supporting Information 
+### 4.1 Appendixes
+#### 4.1.1 Elicitation process
 All the information in this document was obtained through an informal interview with the client on April 7, 2019, he was asked questions about the functions that the website would like to have, and suggestions about some of those functions.
 
 The client already had a design in mind for the page, the main page should contain the logo and the name of the business at the top so that when it was entered the page would be the first thing that was visible, under the logo and the name wanted a bar with different tabs that would function as hyperlinks to the other sites on the website, he mentioned that he wanted the user to click on the tab and be redirected to the corresponding tab, the suggestion was made to add in addition to that the option that when the user puts his cursor on a tab a menu will be displayed with the hyperlinks related to that tab giving the option to the user to go directly to the section he wanted, the client accessed this function and it was agreed to make the tab bar in this way, both the logo and name at the top of the page and the tab bar below, is something that will be present you in all the sites of the web page according to the client. He also mentioned that under the bar he wanted a slider of images that contained the 8 most representative photographs of his work selected by him, the slider must contain a button on the left and one on the right side so that users can move between the images.
@@ -176,7 +212,7 @@ In the previous works tab, the structure of the logo and name in the upper part 
 
 In the packages tab, the same structure is still used, the logo and business name in the upper part and below the tab bar. In this section the name of the package will be added below the tab bar, which contains the package, its price and its description. The information should go from the left side just below the tab bar. Under all packages you should find a legal notice informing that the price of the packages may be subject to price and availability changes.
 
-#### Process
+##### Process
 With this the part of the functions of the website was terminated, now the client told us how the process should be on the page, the process begins when the user enters the website.
 
 When the user enters the web page must be redirected to the main page, on this page the user can check the page and decide if it is of interest, here the user can click on the tabs to see the other sections of the web page depending on what is of your interest.
@@ -193,7 +229,7 @@ Finally, if the client wants to see the information related to the packages alre
 
 Once the client finished specifying the process, the functions and the order he wanted the web page to have, he checked the requirements to ensure that they were interpreted in the way he had wanted it, the client accepted the way that the requirements were interpreted and these requirements were added to the SRS document.
 
-### BPMN
+### 4.1.2 BPMN
 * General Process
 
 ![Proceso General](/BPMN/General.jpg)
