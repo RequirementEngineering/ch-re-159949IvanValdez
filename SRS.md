@@ -55,6 +55,9 @@ The purpose of the website is to provide the client with a way to manage their b
 * **TBD:** To Be Determined.
 
 ### References
+* https://sensacionweb.com/que-es-slider/
+* https://es.ryte.com/wiki/Hyperlink
+
 
 ### Overview
 The rest of the document contains the functions of the web page in more detail, section 2 looks in depth at the product perspective, the function of the product and the characteristics of the user, the constraints, as well as the assumptions and dependencies, in Section 3 is where the specific requirements of the website are discussed.
