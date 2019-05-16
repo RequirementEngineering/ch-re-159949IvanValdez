@@ -239,8 +239,14 @@ The website must be composed as follows:
     * This information must be located right at the end of the information of the packages so that the user can see it easily.
 
 ### Functional Requirements
-* 
-
+* The users can:
+  * Check the images of the slider in the main page. 
+  * Contact with the manager with an application form.
+  * Check the business information.
+  * Make a reservation with an application form.
+  * Check galleries of photographs with the previous works of the business.
+  * Check the packages that the business offers.
+  
 ### Non Functional Requirements
 * The web page must be conected to a server. 
 * The images of the web page must be stored in a dababase.
