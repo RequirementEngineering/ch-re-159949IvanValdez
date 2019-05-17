@@ -29,6 +29,7 @@
   * [4.1 Appendixes](#Appendixes)
     * [4.1.1 Elicitation process](#Elicitation-process)
     * [4.1.2 BPMN](#BPMN)
+    * [4.1.3 Use Case](#Use-Case)
 
 # SRS
 ## Introduction
@@ -309,3 +310,8 @@ Once the client finished specifying the process, the functions and the order he 
   * Sub Process Package tab
   
   ![Package Tab](/BPMN/PackageTab.jpg)
+  
+### Use Case 
+* General
+
+![General](/BPMN/GeneralUseCase.jpg)
